@@ -7,7 +7,7 @@
   This is a clone of Angry birds's homepage built using [Wordpress](https://wordpress.org/), it is configured to run on the [Pantheon platform](https://pantheon.io).
 
 ## Live Demo
-[Discord-UI-Clone](https://dev-discordclonechallenge.pantheonsite.io/)
+[Angry-Birds-UI-Clone](https://dev-angrybirdsclonewithwordpress.pantheonsite.io/)
 
 ## ScreenShots:
 <img src="screenshots/1.png" />
